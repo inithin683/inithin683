@@ -9,5 +9,5 @@ Im nithin krishnaa. im a student from coimbatore,india who loves free software.
 
 ## Contact
  * Github ofcourse.
- * [website](https://nithinkrishna.xyz)
+ * [website](https://nithinkrishna.in)
  
